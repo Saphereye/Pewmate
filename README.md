@@ -11,7 +11,7 @@ Enter text in the 'INPUT' line. Then the program goes through the text and can m
   3) If a command in following way <command> is entered, it's is replaced with respective symbol
 
 Commands:
-<0.5> -> ½
+<0.5> -> ½ \n
 <mu> -> μ
 <int> -> ∫
 <inf> -> ∞
