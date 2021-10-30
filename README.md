@@ -12,11 +12,11 @@ Enter text in the 'INPUT' line. Then the program goes through the text and can m
   3) If a command in following way <command> is entered, it's is replaced with respective symbol
 
 Commands:
-  1) <0.5> -> ½
-  2) <mu> -> μ
-  3) <int> -> ∫
-  4) <inf> -> ∞
-  5) <x> -> ×
-  6) </> -> ÷
-  7) <Cdel> -> Δ
-  8) <sdel> -> δ
+  1) <0.5>   -> ½
+  2) \<mu>   -> μ
+  3) \<int>  -> ∫
+  4) \<inf>  -> ∞
+  5) \<x>    -> ×
+  6) \</>    -> ÷
+  7) \<Cdel> -> Δ
+  8) \<sdel> -> δ
