@@ -1,4 +1,3 @@
-from colorama import Fore,Style
 import os
 os.system('color')
 # Words to math converter
