@@ -74,7 +74,7 @@ def main():
                     print(f"{i} -> {tokens[i]}")
             elif string=='errorsӁ':
                 for i in errors:
-                    print(f"{i} -> {errors[i]}")
+                    print('\x1b[1;31;40m'+f"{i} -> {errors[i]}"+'\x1b[0m')
             else:
                 print('\x1b[7;30;42m'+"OUTPUT>"+'\x1b[0m'+" "+lexer(string))
         except:
