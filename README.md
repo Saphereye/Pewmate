@@ -1,5 +1,5 @@
-# TextToSymbolConverter
-A program that looks through entered text and replaces certain commands with mathematical symbols
+# PEWMATE
+Program that looks through Entered text and replaces certain commands With MAthEmatical symbols
 
 Example:   
 
